@@ -1,7 +1,9 @@
 import React, { Fragment, useState } from "react";
 
 const InputTodo = () => {
+
   const [description, setDescription] = useState("");
+  
   const onSubmitForm = async (e) => {
     e.preventDefault();
     try {
@@ -13,11 +15,12 @@ const InputTodo = () => {
         },
         body: JSON.stringify(body),
       });
-      console.log(response);
+      window.location = "/";
     } catch (err) {
       console.error(err.message);
     }
   };
+  
   return (
     <Fragment>
       <h1 className="text-center mt-5">Pern Todo List</h1>

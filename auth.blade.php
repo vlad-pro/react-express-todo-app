@@ -117,7 +117,7 @@
 
             <!-- Side image starts  -->
             <div id="av_section_2"
-				class="col-lg-5 col-xl-4 d-none d-lg-flex avia-section footer_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-33  el_after_av_layout_row  avia-builder-el-last   container_wrap fullsize html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking_disabled html_header_transparency html_mobile_menu_phone html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_minimal_header_shadow html_av-overlay-full html_av-submenu-clone html_entry_id_235 html_av_admin_bar_active av-no-preview html_text_menu_active  avia_desktop  js_active  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia-mozilla avia-mozilla-76"
+				class="col-lg-5 col-xl-4 avia-section footer_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-33  el_after_av_layout_row  avia-builder-el-last   container_wrap fullsize html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking_disabled html_header_transparency html_mobile_menu_phone html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_minimal_header_shadow html_av-overlay-full html_av-submenu-clone html_entry_id_235 html_av_admin_bar_active av-no-preview html_text_menu_active  avia_desktop  js_active  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia-mozilla avia-mozilla-76"
 				style="background-color: #1274a8;">
 				<div class="container">
 					<div class="template-page content  av-content-full alpha units">
@@ -136,7 +136,7 @@
 										<h3 class="av-special-heading-tag " itemprop="headline">Cold Chain Monitoring
 										</h3>
 										<div class="av-subheading av-subheading_below  "
-											style="font-size:15px;">
+											style="font-size:15px; color:white ">
 											<p>Temperature and System Monitoring</p>
 										</div>
 										<div class="special-heading-border">

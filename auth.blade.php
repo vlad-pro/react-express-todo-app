@@ -295,26 +295,6 @@
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-md-8 col-lg-7 col-xl-6 offset-md-2 offset-lg-2 offset-xl-3 u-space-2">
-                        <!-- Title heading for smaller screens. -->
-                        <div class="d-lg-none">
-                            <div class="text-center mb-3">
-                                <a href="/" class="text-center mb-3">
-                                    <img src="{{ asset('images/logo.svg') }}" alt="Logo">
-                                </a>
-                            </div>
-
-                            <div class="text-center">
-                                <span class="u-divider u-divider--xs u-divider--text mb-6">
-                                    @yield('title', 'Welcome')
-                                </span>
-                            </div>
-                        </div>
-
-                        <!-- Title heading for larger screens. -->
-                        <div class="mb-7 d-none d-lg-block">
-                            @yield('heading', '')
-                        </div>
-
                         @yield('content', '')
                     </div>
                 </div>

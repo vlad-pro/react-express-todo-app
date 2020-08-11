@@ -117,7 +117,7 @@
 
             <!-- Side image starts  -->
             <div id="av_section_2"
-				class="col-lg-6 col-xl-6 avia-section footer_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-33  el_after_av_layout_row  avia-builder-el-last   container_wrap fullsize html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking_disabled html_header_transparency html_mobile_menu_phone html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_minimal_header_shadow html_av-overlay-full html_av-submenu-clone html_entry_id_235 html_av_admin_bar_active av-no-preview html_text_menu_active  avia_desktop  js_active  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia-mozilla avia-mozilla-76"
+				class="col-auto col-xl-6 avia-section footer_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-33  el_after_av_layout_row  avia-builder-el-last   container_wrap fullsize html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking_disabled html_header_transparency html_mobile_menu_phone html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_minimal_header_shadow html_av-overlay-full html_av-submenu-clone html_entry_id_235 html_av_admin_bar_active av-no-preview html_text_menu_active  avia_desktop  js_active  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia-mozilla avia-mozilla-76"
 				style="background-color: #1274a8;">
 				<div class="container">
 					<div class="template-page content  av-content-full alpha units">
@@ -135,7 +135,7 @@
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-38  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Cold Chain Monitoring
 										</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>Temperature and System Monitoring</p>
 										</div>
@@ -154,7 +154,7 @@
 									<div style="padding-bottom:10px; color:#ffffff;"
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-41  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Real-time Tracking</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>GPS Location Tracking</p>
 										</div>
@@ -173,7 +173,7 @@
 									<div style="padding-bottom:10px; color:#ffffff;"
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-44  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Documenting</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>Decentralized ledgers of transactions</p>
 										</div>
@@ -192,7 +192,7 @@
 									<div style="padding-bottom:10px; color:#ffffff;"
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-47  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Management</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>Alarms Settings &amp; Security</p>
 										</div>
@@ -214,7 +214,7 @@
 									<div style="padding-bottom:10px; color:#ffffff;"
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-51  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Barcode Tracking</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>Customizable Reports for Relevant &amp; Contextual Insights</p>
 										</div>
@@ -233,7 +233,7 @@
 									<div style="padding-bottom:10px; color:#ffffff;"
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-54  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Scheduling</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>Planning and scheduling for your drivers and services</p>
 										</div>
@@ -253,7 +253,7 @@
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-57  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Predictive Analytics and
 											AI</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>Connect all your data, easily create reports and share data</p>
 										</div>
@@ -272,7 +272,7 @@
 									<div style="padding-bottom:10px; color:#ffffff;"
 										class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-60  el_after_av_font_icon  avia-builder-el-last   ">
 										<h3 class="av-special-heading-tag " itemprop="headline">Integrations</h3>
-										<div class="av-subheading av-subheading_below av_custom_color "
+										<div class="av-subheading av-subheading_below  "
 											style="font-size:15px;">
 											<p>Connect any app &amp; create new workflows to enhance productivity</p>
 										</div>

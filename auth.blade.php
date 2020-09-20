@@ -29,7 +29,7 @@
                 <nav class="d-flex justify-content-between align-items-center">
                     <div class="col-lg-5 col-xl-4 text-lg-center px-0">
                         <a class="d-inline-block p-3 p-sm-5" href="{{ url('/') }}" aria-label="Logo">
-                            <img src="{{ asset('images/logo-white.svg') }}" alt="Logo">
+                            <img src="{{ asset('images/logo-circle.png') }}" alt="Logo">
                         </a>
                     </div>
                 </nav>

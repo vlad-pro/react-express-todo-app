@@ -30,17 +30,20 @@
                 </nav>
             </header>
 
-
-
-
             <div class="container">
+                
+                <div class="col-3 mx-auto d-block">
+                    <a class="inline-block text-center" href="{{ url('/') }}" aria-label="Logo">
+                        <img class="img-fluid" src="{{ asset('images/logo-circle.png') }}" alt="Logo">
+                    </a>
+                </div>
+
+                <div class="h6 pt-5 small d-block text-center text-uppercase">
+                    Login in as administator or dispatcher
+                </div>
+
                 <div class="row no-gutters">
                     <div class="col-md-8 col-lg-7 col-xl-6 offset-md-2 offset-lg-2 offset-xl-3 u-space-2">
-                    <div class="col-lg-5 col-xl-4 text-lg-center px-0">
-                        <a class="d-inline-block p-3 p-sm-5" href="{{ url('/') }}" aria-label="Logo">
-                            <img src="{{ asset('images/logo-circle.png') }}" alt="Logo">
-                        </a>
-                    </div>
                         @yield('content', '')
                     </div>
                 </div>
